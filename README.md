@@ -1,2 +1,2 @@
 # Hello_World
- primeiro repositorio versionado
+ Primeiro repositorio do curso de git e github do curso em video
